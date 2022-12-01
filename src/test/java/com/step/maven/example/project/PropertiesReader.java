@@ -1,4 +1,4 @@
-package com.step.maven.example.project.test;
+package com.step.maven.example.project;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

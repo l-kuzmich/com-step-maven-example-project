@@ -1,4 +1,4 @@
-package com.step.maven.example.project.test;
+package com.step.maven.example.project;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
